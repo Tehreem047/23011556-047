@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace visualprogramming
 {
-    internal class program
+    internal class Question1
     {
         static void Main(string[] args)
         {
