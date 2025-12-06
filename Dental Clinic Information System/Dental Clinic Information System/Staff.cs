@@ -4,36 +4,23 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace practice
+namespace Dental_Clinic_Information_System
 {
-    public partial class dash : Form
+    public partial class Staff : Form
     {
-        public dash()
+        public Staff()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            addbook add = new addbook();
-            add.Show();
-            this.Hide();
-
-
-
-
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            Question3 book1 = new Question3();
-            book1.Show();
+            navig nav = new navig();
+            nav.Show();
             this.Hide();
         }
     }

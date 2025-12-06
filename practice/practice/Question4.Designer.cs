@@ -1,6 +1,6 @@
 ﻿namespace practice
 {
-    partial class calform
+    partial class Question4
     {
         /// <summary>
         /// Required designer variable.

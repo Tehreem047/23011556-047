@@ -28,7 +28,7 @@ namespace practice
 
         private void button3_Click(object sender, EventArgs e)
         {
-            book book = new book();
+            Question3 book = new Question3();
             book.Show();
             this.Hide();
         }
@@ -42,7 +42,7 @@ namespace practice
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Login log = new Login();
+            Question1 log = new Question1();
             log.Show();
             this.Hide();
         }

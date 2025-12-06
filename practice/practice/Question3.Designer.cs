@@ -1,6 +1,6 @@
 ﻿namespace practice
 {
-    partial class book
+    partial class Question3
     {
         /// <summary>
         /// Required designer variable.

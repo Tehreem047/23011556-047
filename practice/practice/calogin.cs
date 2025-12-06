@@ -22,7 +22,7 @@ namespace practice
             if (nam.Text=="admin" && passwd.Text == "123")
             {
                 MessageBox.Show("Logined Successfully");
-                calform cal = new calform();
+                Question4 cal = new Question4();
                 cal.Show();
                 this.Hide();
             }

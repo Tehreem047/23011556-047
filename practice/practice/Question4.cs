@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace practice
 {
-    public partial class calform : Form
+    public partial class Question4 : Form
     {
-        public calform()
+        public Question4()
         {
             InitializeComponent();
         }

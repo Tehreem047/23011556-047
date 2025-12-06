@@ -25,7 +25,7 @@ namespace practice
 
         private void button1_Click(object sender, EventArgs e)
         {
-            calform calf = new calform();
+            Question4 calf = new Question4();
             calf.Show();
             this.Hide();
         }
